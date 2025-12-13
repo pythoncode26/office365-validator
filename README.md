@@ -13,10 +13,10 @@
 
 ## 🤝 Get in Touch
 
-We are open for business collaboration, custom development, and general inquiries related to this project.
+if you want to purchase,
 
 - Email     : elowenreply@gmail.com
-- Telegram  : @thepythoncode97
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 If you engage in any illegal activities using this tool, the author will not take any responsibility.
