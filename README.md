@@ -1,37 +1,24 @@
 # Office365 Email Validator
 
-# Office365 电子邮件验证器
+![Office365 Email Validator](https://raw.githubusercontent.com/alexrony21/office365-email-validator/refs/heads/main/office365-email-checker.png)
 
-![Office365 Email Validator](https://raw.githubusercontent.com/pythoncode26/office365_email_validator/refs/heads/main/office365_validator.png)
+## 🚀 Features
 
-## Core Features
-
-- Faster verification with multithreading.
-- Automatically handles proxy configurations.
-- Quickly checks emails in your list.
-- Ensures precise verification.
-- Using random useragents to be more reliable
-
-
-## 核心功能
-
-- 多线程加速验证。
-- 自动处理代理配置。
-- 快速检查列表中的电子邮件地址。
-- 确保验证的准确性。
-- 使用随机用户代理，提高可靠性。
+1. Fast Checking  
+2. Accurate Results  
+3. HTTP Proxy Support  
+4. Advanced Mechanism for Checking Large Amounts  
+5. Unlimited Checking  
+6. 350+ CPM with Free Proxy  
 
 ## 🤝 Get in Touch
 
 if you want to purchase,
 
-如果你想购买，
-
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
-If you engage in any illegal activities using this tool, the author will not take any responsibility.
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
----
-Thank you!
+Thanks
