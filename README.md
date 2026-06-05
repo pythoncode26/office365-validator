@@ -4,12 +4,12 @@
 
 ## 🚀 Features
 
-1. Fast Checking  
-2. Accurate Results  
-3. HTTP Proxy Support  
-4. Advanced Mechanism for Checking Large Amounts  
-5. Unlimited Checking  
-6. 350+ CPM with Free Proxy  
+1. Fast Checking.
+2. Accurate Results.
+3. Proxy Support.
+4. Advanced Mechanism for Checking Large Amounts.
+5. Unlimited Checking.
+6. 350+ CPM with Free Proxy.
 
 ## 🤝 Get in Touch
 
